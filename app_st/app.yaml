@@ -1,0 +1,7 @@
+# app.yaml - Configuración completa
+command: [
+  "streamlit", 
+  "run",
+  "app.py"
+]
+
