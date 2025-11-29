@@ -1,0 +1,11 @@
+# Conexión a Databricks SQL Warehouse
+databricks-sql-connector==3.0.2
+
+# Framework de la aplicación
+streamlit==1.28.0
+
+# Análisis de datos
+pandas==2.1.3
+
+# Visualizaciones interactivas
+plotly==5.18.0
